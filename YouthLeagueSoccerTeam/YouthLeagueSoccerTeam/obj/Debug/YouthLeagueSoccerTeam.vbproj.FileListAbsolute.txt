@@ -1,0 +1,27 @@
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.exe.config
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.exe
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.pdb
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.xml
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbprojAssemblyReference.cache
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.frmYouthLeagueSoccerTeam.resources
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.Resources.resources
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbproj.GenerateResource.cache
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbproj.CoreCompileInputs.cache
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.exe
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.xml
+C:\VISUAL BASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter10\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter10\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter10\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter10\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.pdb
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.exe.config
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.exe
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.pdb
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\bin\Debug\YouthLeagueSoccerTeam.xml
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbprojAssemblyReference.cache
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.frmYouthLeagueSoccerTeam.resources
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.Resources.resources
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.vbproj.GenerateResource.cache
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.exe
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.xml
+C:\VISUALBASIC\YouthLeagueSoccerTeam\YouthLeagueSoccerTeam\obj\Debug\YouthLeagueSoccerTeam.pdb

@@ -1,0 +1,24 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter10\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbprojAssemblyReference.cache
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.exe.config
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.exe
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.pdb
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.xml
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbprojAssemblyReference.cache
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.frmAntiqueCarCompetition.resources
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.Resources.resources
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbproj.GenerateResource.cache
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbproj.CoreCompileInputs.cache
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.exe
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.xml
+C:\VISUAL BASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.pdb
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.exe.config
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.exe
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.pdb
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\bin\Debug\AntiqueCarCompetition.xml
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbprojAssemblyReference.cache
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.frmAntiqueCarCompetition.resources
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.Resources.resources
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.vbproj.GenerateResource.cache
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.exe
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.xml
+C:\VISUALBASIC\AntiqueCarCompetition\AntiqueCarCompetition\obj\Debug\AntiqueCarCompetition.pdb

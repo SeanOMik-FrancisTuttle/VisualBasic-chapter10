@@ -1,0 +1,24 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter10\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbprojAssemblyReference.cache
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.exe.config
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.exe
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.pdb
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.xml
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbprojAssemblyReference.cache
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.Form1.resources
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.Resources.resources
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbproj.GenerateResource.cache
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbproj.CoreCompileInputs.cache
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.exe
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.xml
+C:\VISUAL BASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.pdb
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.exe.config
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.exe
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.pdb
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\bin\Debug\GameDesignFinalists.xml
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbprojAssemblyReference.cache
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.Form1.resources
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.Resources.resources
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.vbproj.GenerateResource.cache
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.exe
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.xml
+C:\VISUALBASIC\GameDesignFinalists\GameDesignFinalists\obj\Debug\GameDesignFinalists.pdb
